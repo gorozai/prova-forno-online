@@ -1,0 +1,12 @@
+Font inclusi in questo sito di prova
+
+Bricolage Grotesque (bricolage.woff2)
+  Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateliertriay/bricolage)
+Instrument Serif (instrument-italic.woff2)
+  Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
+IBM Plex Mono (plexmono-400.woff2, plexmono-500.woff2)
+  Copyright 2017 IBM Corp. (https://github.com/IBM/plex)
+
+Tutti sono distribuiti con la SIL Open Font License, versione 1.1:
+https://openfontlicense.org
+File scaricati da Google Fonts (sottoinsieme latino) il 24/11/2026.
